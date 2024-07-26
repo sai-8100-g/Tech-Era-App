@@ -1,0 +1,26 @@
+.course-container {
+  height: 100vh;
+}
+
+.item-container {
+  width: 60%;
+  height: 400px;
+  display: flex;
+  box-shadow:
+    0px 0px 5px 2px #f1f5f9,
+    -0px -0px 5px 2px #f1f5f9;
+}
+
+.item-container > img {
+  width: 40%;
+  height: 100%;
+}
+
+.item-name {
+  color: #1e293b;
+}
+
+.item-description {
+  color: #475569;
+  font-size: 1.5vw;
+}

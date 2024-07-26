@@ -1,0 +1,14 @@
+nav {
+  height: 12vh;
+  padding: 1% 3%;
+  background-color: #f1f5f9;
+}
+
+.navLink {
+  text-decoration: none;
+}
+
+.navLink > img {
+  width: 150px;
+  height: 50px;
+}

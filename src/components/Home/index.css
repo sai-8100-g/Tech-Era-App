@@ -1,0 +1,15 @@
+.home-container {
+  height: 100vh;
+}
+
+.home-container > h1 {
+  color: #1e293b;
+}
+
+
+.coursesUl {
+   padding: 0px; 
+   list-style: none; 
+   display: flex;
+   flex-wrap: wrap;
+}

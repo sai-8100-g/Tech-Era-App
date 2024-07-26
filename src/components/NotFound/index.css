@@ -1,0 +1,24 @@
+.not-found-main-container {
+  height: 100vh;
+}
+
+.not-found-inner-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-inner-container > img {
+  width: 400px;
+  height: 300px;
+}
+
+.not-found-inner-container > h1 {
+    color: #475569;
+}
+
+.not-found-inner-container > p {
+  color:  #64748b;
+}

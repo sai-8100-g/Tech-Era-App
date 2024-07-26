@@ -1,0 +1,28 @@
+.failureContainer {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failureContainer > h1 {
+  color: #1e293b;
+}
+
+.failureContainer > p {
+  color: #475569;
+}
+
+.failureContainer > img {
+  width: 400px;
+  height: 300px;
+}
+
+.failureContainer > button {
+  background-color: #4656a1;
+  border: none;
+  border-radius: 4px;
+  color: #ffffff;
+  padding: 1% 4%;
+}
